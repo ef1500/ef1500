@@ -9,17 +9,6 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: 📗 Classic template
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.classic.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: header, repositories
-          plugin_lines: yes
-          delay: 120
-          
-          
       - name: Metrics
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
