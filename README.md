@@ -1,1 +1,5 @@
-![Metrics](https://metrics.lecoq.io/ef1500?template=classic&followup=1&habits=1&languages=1&anilist=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&followup.sections=user&anilist.medias=anime%2C%20manga&anilist.sections=favorites%2C%20characters&anilist.limit=2&anilist.limit.characters=22&anilist.shuffle=true&anilist.user=ef1500&config.timezone=Japan%2FTokyo)
+[<img align="center" src="https://github.com/ef1500/ef1500/blob/master/metrics.classic.svg">]
+[<img align="center" src="https://github.com/ef1500/ef1500/blob/master/metrics.svg">]
+[<img align="center" src="https://github.com/ef1500/ef1500/blob/master/metrics.plugin.anilist.svg">]
+[<img align="center" src="https://github.com/ef1500/ef1500/blob/master/metrics.plugin.anilist.manga.svg">]
+[<img align="center" src="https://github.com/ef1500/ef1500/blob/master/metrics.plugin.followup.user.svg">]
