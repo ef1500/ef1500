@@ -35,10 +35,6 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: mastered
-          plugin_notable: yes
-          plugin_notable_repositories: yes
-          plugin_discussions: yes
-          config_order: base.header, isocalendar, languages, notable, discussions, topics
           
       - name: Anilist_2
         if: ${{ success() || failure() }}
