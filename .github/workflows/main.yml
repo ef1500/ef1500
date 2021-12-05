@@ -13,22 +13,15 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-
           # Options
           user: ef1500
           template: classic
           base: header, activity, community, repositories
-          config_timezone: America/Denver
-          plugin_anilist: yes
-          plugin_anilist_limit: 2
-          plugin_anilist_limit_characters: 22
-          plugin_anilist_medias: manga
-          plugin_anilist_sections: favorites
-          plugin_anilist_shuffle: yes
-          plugin_anilist_user: ef1500
+          config_timezone: Japan/Tokyo
           plugin_habits: yes
           plugin_habits_days: 14
           plugin_habits_facts: yes
+          plugin_habits_charts: yes
           plugin_habits_from: 200
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
@@ -46,3 +39,12 @@ jobs:
           plugin_people_size: 28
           plugin_people_types: followers, following
           repositories_forks: yes
+          
+          
+          plugin_anilist: yes
+          plugin_anilist_medias: anime, manga
+          plugin_anilist_sections: favorites, characters, reading
+          plugin_anilist_limit: 2
+          plugin_anilist_limit_characters: 22
+          plugin_anilist_shuffle: yes
+          plugin_anilist_user: .user.login
