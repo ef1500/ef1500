@@ -32,9 +32,6 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: yes
           plugin_languages_limit: 2
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: mastered
           
       - name: Anilist_2
         if: ${{ success() || failure() }}
@@ -55,7 +52,7 @@ jobs:
           token: NOT_NEEDED
           plugin_anilist: yes
           plugin_anilist_medias: manga
-          plugin_anilist_sections: favorites, reading, characters
+          plugin_anilist_sections: favorites, characters
           plugin_anilist_limit: 1
           
       - name: pull_req_flp
