@@ -2,4 +2,4 @@
 [<img align="left" width=390 src="https://github.com/ef1500/ef1500/blob/main/metrics.plugin.followup.user.svg">](https://soundcloud.com/llllane)
 [<img align="right" width=390 src="https://github.com/ef1500/ef1500/blob/main/metrics.plugin.anilist.svg">](https://soundcloud.com/voltvisionmusic)
 [<img align="right" width=390 src="https://github.com/ef1500/ef1500/blob/main/metrics.plugin.anilist.manga.svg">](https://soundcloud.com/wazmusic)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ef1500&show_icons=true&theme=synthwave)
+[<img align="right" src="https://github-readme-stats.vercel.app/api?username=ef1500&show_icons=true&theme=synthwave">](https://soundcloud.com/wazmusic/dream-space)
