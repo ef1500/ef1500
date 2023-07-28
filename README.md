@@ -25,7 +25,7 @@
 <!-- Introduction -->
 <p align="center">
   <samp>
-  Hello! I'm ef1500, an OSINT researcher and enthusiast who enjoys developing OSINT tools and exploring various topics. While I have many hobbies and interests, I tend to focus on OSINT, low-level programming and microprocessor architecture.
+  Hello! I'm ef1500. I like OSINT and Microprocessors.
   </samp>
 </p>
 
